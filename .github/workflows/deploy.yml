@@ -3,7 +3,7 @@ name: Deploy Vite React App to GitHub Pages
 on:
   push:
     branches:
-      - main # change if your default branch is different
+      - main
 
 permissions:
   contents: read
@@ -19,7 +19,7 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout repo
+      - name: Checkout repository
         uses: actions/checkout@v4
 
       - name: Setup Node
@@ -34,7 +34,7 @@ jobs:
       - name: Build project
         run: npm run build
 
-      - name: Upload build artifact
+      - name: Upload dist folder
         uses: actions/upload-pages-artifact@v3
         with:
           path: dist
