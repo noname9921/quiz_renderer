@@ -1,0 +1,329 @@
+@import url('https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;500;700&display=swap');
+
+:root {
+  color-scheme: dark;
+  font-family: 'JetBrains Mono', monospace;
+  --bg: #020604;
+  --surface: #07110d;
+  --surface-strong: #0d1f1a;
+  --border: rgba(87, 255, 143, 0.24);
+  --text: #d8ffdd;
+  --text-muted: #7aa88a;
+  --accent: #7dff9c;
+  --accent-strong: #39ff74;
+  --shadow: 0 26px 60px rgba(0, 0, 0, 0.45);
+  --radius: 22px;
+}
+
+body {
+  margin: 0;
+  min-height: 100vh;
+  background: #020604;
+  color: var(--text);
+}
+
+#root {
+  width: min(1040px, 100%);
+  margin: 0 auto;
+  min-height: 100svh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 22px;
+}
+
+.terminal-shell {
+  width: 100%;
+  background: rgba(0, 0, 0, 0.17);
+  border: 1px solid rgba(48, 255, 140, 0.16);
+  border-radius: calc(var(--radius) + 4px);
+  box-shadow: var(--shadow);
+  backdrop-filter: blur(12px);
+  padding: 26px;
+  position: relative;
+  overflow: hidden;
+}
+
+.terminal-shell::before {
+  content: "SSH: connecting to quiznet...";
+  position: absolute;
+  top: 16px;
+  left: 24px;
+  color: rgba(126, 255, 170, 0.65);
+  font-size: 0.8rem;
+  letter-spacing: 0.18em;
+}
+
+.terminal-shell::after {
+  content: " ";
+  position: absolute;
+  inset: 0;
+  background-image: radial-gradient(rgba(255,255,255,0.04) 1px, transparent 1px);
+  background-size: 24px 24px;
+  opacity: 0.12;
+  pointer-events: none;
+}
+
+.terminal-window {
+  position: relative;
+  background: rgba(0, 0, 0, 0.9);
+  border: 1px solid rgba(48, 255, 140, 0.18);
+  border-radius: 18px;
+  padding: 24px 24px 18px;
+  box-shadow: inset 0 0 0 1px rgba(255,255,255,0.03);
+}
+
+.terminal-header {
+  font-size: 0.82rem;
+  color: rgba(137, 255, 171, 0.9);
+  letter-spacing: 0.22em;
+  text-transform: uppercase;
+  margin-bottom: 16px;
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+
+.terminal-header::before {
+  content: "● ● ●";
+  font-size: 1rem;
+  color: #32ff93;
+  opacity: 0.6;
+}
+
+.terminal-panel {
+  border: 1px dashed rgba(48, 255, 140, 0.22);
+  padding: 18px;
+  border-radius: 16px;
+  background: rgba(9, 18, 12, 0.92);
+}
+
+.terminal-panel::before {
+  content: "[user@quizengine ~]$";
+  display: block;
+  margin-bottom: 14px;
+  opacity: 0.7;
+  color: rgba(120, 255, 156, 0.75);
+}
+
+h2,
+h3 {
+  color: var(--accent);
+  margin: 0;
+}
+
+h2 {
+  font-size: 30px;
+  margin-bottom: 18px;
+}
+
+h3 {
+  font-size: 20px;
+  margin: 24px 0 14px;
+}
+
+input,
+button {
+  font: inherit;
+  border-radius: 14px;
+  outline: none;
+  transition: transform 120ms ease, box-shadow 120ms ease, background-color 120ms ease, border-color 120ms ease;
+}
+
+input {
+  width: min(100%, 420px);
+  background: rgba(4, 9, 6, 0.9);
+  border: 1px solid rgba(87, 255, 143, 0.20);
+  color: var(--text);
+  padding: 14px 18px;
+  margin: 0 auto 18px;
+  display: block;
+  box-shadow: inset 0 1px 0 rgba(255, 255, 255, 0.06);
+}
+
+input::placeholder {
+  color: rgba(216, 255, 221, 0.5);
+}
+
+button {
+  border: 1px solid rgba(87, 255, 143, 0.22);
+  background: rgba(9, 21, 16, 0.9);
+  color: var(--text);
+  cursor: pointer;
+  padding: 14px 20px;
+  min-width: 140px;
+  font-weight: 600;
+  box-shadow: 0 12px 30px rgba(0, 0, 0, 0.24);
+}
+
+button:hover {
+  transform: translateY(-1px);
+  background: rgba(18, 39, 30, 0.98);
+}
+
+button:disabled {
+  opacity: 0.6;
+  cursor: not-allowed;
+  background: rgba(0, 0, 0, 0.28);
+  border-color: rgba(255, 255, 255, 0.08);
+  box-shadow: none;
+}
+
+button.primary-button {
+  background: linear-gradient(135deg, rgba(61, 255, 130, 0.24), rgba(20, 255, 121, 0.3));
+  color: #efffe8;
+}
+
+button.secondary-button {
+  background: rgba(0, 0, 0, 0.42);
+  color: var(--text);
+}
+
+button.secondary-button:hover {
+  background: rgba(255, 255, 255, 0.08);
+}
+
+.button-group {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 12px;
+  justify-content: center;
+  margin-top: 18px;
+}
+
+.team-select {
+  text-align: center;
+}
+
+.team-buttons {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(140px, 1fr));
+  gap: 14px;
+  justify-content: center;
+  margin-top: 20px;
+}
+
+.team-buttons button,
+.answers button {
+  padding: 16px 18px;
+  font-size: 16px;
+  min-height: 64px;
+  border-color: rgba(87, 255, 143, 0.18);
+}
+
+.answers {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(140px, 1fr));
+  gap: 12px;
+  margin-top: 16px;
+}
+
+.team-status {
+  display: grid;
+  gap: 10px;
+  margin-top: 18px;
+  text-align: left;
+  max-width: 560px;
+  margin-inline: auto;
+}
+
+.team-status div {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 12px 14px;
+  border-radius: 14px;
+  background: rgba(255, 255, 255, 0.03);
+  border: 1px solid rgba(255, 255, 255, 0.06);
+}
+
+.toast {
+  position: fixed;
+  right: 24px;
+  top: 24px;
+  z-index: 50;
+  min-width: 260px;
+  padding: 14px 16px;
+  border-radius: 14px;
+  border: 1px solid rgba(255, 255, 255, 0.12);
+  box-shadow: 0 24px 60px rgba(0, 0, 0, 0.35);
+  background: rgba(16, 30, 23, 0.95);
+  color: #e6ffe6;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 12px;
+  font-size: 0.96rem;
+}
+
+.toast span {
+  line-height: 1.4;
+}
+
+.toast-close {
+  border: none;
+  background: transparent;
+  color: #d8ffdd;
+  font-size: 1.2rem;
+  line-height: 1;
+  cursor: pointer;
+  opacity: 0.8;
+  padding: 0 4px;
+}
+
+.toast-close:hover {
+  opacity: 1;
+}
+
+.toast-info {
+  border-color: rgba(81, 179, 255, 0.28);
+  background: rgba(12, 24, 38, 0.95);
+}
+
+.toast-success {
+  border-color: rgba(71, 255, 163, 0.32);
+  background: rgba(15, 38, 26, 0.95);
+}
+
+.toast-error {
+  border-color: rgba(255, 97, 97, 0.35);
+  background: rgba(39, 12, 15, 0.96);
+}
+
+.hub-access {
+  text-align: center;
+}
+
+.hub-access p,
+.team-status p {
+  color: var(--text-muted);
+}
+
+code,
+.counter {
+  font-family: 'JetBrains Mono', monospace;
+  display: inline-flex;
+  border-radius: 6px;
+  color: var(--text);
+  background: rgba(255, 255, 255, 0.05);
+  padding: 4px 8px;
+}
+
+@media (max-width: 640px) {
+  .terminal-shell {
+    padding: 20px;
+  }
+
+  .team-buttons,
+  .answers {
+    grid-template-columns: 1fr;
+  }
+
+  button {
+    min-width: 100%;
+  }
+
+  .button-group {
+    flex-direction: column;
+  }
+}

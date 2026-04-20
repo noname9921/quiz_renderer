@@ -1,0 +1,1202 @@
+[
+  {
+    "qid": 1,
+    "question": "Where is New York City located?",
+    "ans": ["West Coast", "East Coast", "Gulf Coast", "North Coast"],
+    "tans": "East Coast"
+  },
+  {
+    "qid": 2,
+    "question": "Who were the original inhabitants of the area that became New York City?",
+    "ans": ["The Lenape", "The Dutch", "The Romans", "The English"],
+    "tans": "The Lenape"
+  },
+  {
+    "qid": 3,
+    "question": "How many languages are spoken in New York City?",
+    "ans": ["Over 200", "Over 500", "Over 800", "Over 1000"],
+    "tans": "Over 800"
+  },
+  {
+    "qid": 4,
+    "question": "Which major financial institution is located in New York City?",
+    "ans": ["The Eiffel Tower", "The London Eye", "The New York Stock Exchange", "The Sydney Opera House"],
+    "tans": "The New York Stock Exchange"
+  },
+  {
+    "qid": 5,
+    "question": "Which city is the capital of the United Kingdom?",
+    "ans": ["Paris", "London", "New York City", "Sydney"],
+    "tans": "London"
+  },
+  {
+    "qid": 6,
+    "question": "Which river has played a key role in the growth and trade of London?",
+    "ans": ["River Nile", "River Thames", "Seine River", "Hudson River"],
+    "tans": "River Thames"
+  },
+  {
+    "qid": 7,
+    "question": "According to the text, when did London's history begin?",
+    "ans": ["Medieval times", "Roman times", "Modern times", "Prehistoric times"],
+    "tans": "Roman times"
+  },
+  {
+    "qid": 8,
+    "question": "Which of these is a famous landmark in London mentioned in the text?",
+    "ans": ["Big Ben", "The Louvre", "The Brooklyn Bridge", "The Arc de Triomphe"],
+    "tans": "Big Ben"
+  },
+  {
+    "qid": 9,
+    "question": "Along which river is the city of Paris located?",
+    "ans": ["The Seine River", "The Danube", "The Rhine", "The Tiber"],
+    "tans": "The Seine River"
+  },
+  {
+    "qid": 10,
+    "question": "What was the name of the Roman settlement that later became Paris?",
+    "ans": ["Lutetia", "Gaul", "Parisium", "Aethelred"],
+    "tans": "Lutetia"
+  },
+  {
+    "qid": 11,
+    "question": "Which museum in Paris is the largest art museum in the world?",
+    "ans": ["British Museum", "The Louvre Museum", "The Met", "Tate Modern"],
+    "tans": "The Louvre Museum"
+  },
+  {
+    "qid": 12,
+    "question": "Which artistic movement is specifically associated with Paris in the text?",
+    "ans": ["Impressionism", "Renaissance", "Baroque", "Gothic"],
+    "tans": "Impressionism"
+  },
+  {
+    "qid": 13,
+    "question": "In which hemisphere is Sydney located?",
+    "ans": ["Southern Hemisphere", "Northern Hemisphere", "Eastern Hemisphere", "Western Hemisphere"],
+    "tans": "Southern Hemisphere"
+  },
+  {
+    "qid": 14,
+    "question": "Which landmark represents Sydney's modern culture and engineering achievements?",
+    "ans": ["Sydney Opera House", "Eiffel Tower", "Statue of Liberty", "Big Ben"],
+    "tans": "Sydney Opera House"
+  },
+  {
+    "qid": 15,
+    "question": "How is the lifestyle in Sydney described compared to other global cities?",
+    "ans": ["A fast lifestyle", "A relaxed lifestyle", "A very formal culture", "Extreme cold weather"],
+    "tans": "A relaxed lifestyle"
+  },
+  {
+    "qid": 16,
+    "question": "Which city is famous for its Broadway theatre and fashion industries?",
+    "ans": ["New York City", "London", "Paris", "Sydney"],
+    "tans": "New York City"
+  },
+  {
+    "qid": 17,
+    "question": "What natural feature has shaped the identity and lifestyle of Sydney?",
+    "ans": ["A natural harbour", "A desert", "Mountains", "A rainforest"],
+    "tans": "A natural harbour"
+  },
+  {
+    "qid": 18,
+    "question": "Which city's development was shaped by Roman, medieval, and modern influences?",
+    "ans": ["London", "Sydney", "New York City", "None of the above"],
+    "tans": "London"
+  },
+  {
+    "qid": 19,
+    "question": "Which city is described as 'beautiful and elegant' and attracts millions of tourists?",
+    "ans": ["London", "Paris", "New York City", "Sydney"],
+    "tans": "Paris"
+  },
+  {
+    "qid": 20,
+    "question": "Which city is described as a key city in the Asia-Pacific region?",
+    "ans": ["Paris", "Sydney", "London", "New York City"],
+    "tans": "Sydney"
+  },
+  {
+    "qid": 21,
+    "question": "Besides the Dutch, which other group of settlers developed New York City?",
+    "ans": ["French", "Spanish", "English", "German"],
+    "tans": "English"
+  },
+  {
+    "qid": 22,
+    "question": "What is the famous financial street mentioned in New York City?",
+    "ans": ["Broadway", "5th Avenue", "Wall Street", "Park Avenue"],
+    "tans": "Wall Street"
+  },
+  {
+    "qid": 23,
+    "question": "Which New York landmark is located in the middle of the city's urban area?",
+    "ans": ["Central Park", "The Louvre", "Sydney Harbour Bridge", "Big Ben"],
+    "tans": "Central Park"
+  },
+  {
+    "qid": 24,
+    "question": "What is New York City often seen as a symbol of?",
+    "ans": ["Isolation", "Opportunity and diversity", "Ancient history", "Silence"],
+    "tans": "Opportunity and diversity"
+  },
+  {
+    "qid": 25,
+    "question": "Which European city is described as one of the oldest in the region?",
+    "ans": ["Sydney", "New York City", "London", "Los Angeles"],
+    "tans": "London"
+  },
+  {
+    "qid": 26,
+    "question": "Where do the King or Queen of the UK officially reside in London?",
+    "ans": ["Tower Bridge", "Houses of Parliament", "Buckingham Palace", "The London Eye"],
+    "tans": "Buckingham Palace"
+  },
+  {
+    "qid": 27,
+    "question": "Which London landmark is a large observation wheel?",
+    "ans": ["Tower Bridge", "The London Eye", "Big Ben", "The Eiffel Tower"],
+    "tans": "The London Eye"
+  },
+  {
+    "qid": 28,
+    "question": "London is a global center for which three areas according to the text?",
+    "ans": ["Finance, politics, and culture", "Mining, farming, and fishing", "Space travel, robotics, and AI", "Art, fashion, and food"],
+    "tans": "Finance, politics, and culture"
+  },
+  {
+    "qid": 29,
+    "question": "Which city is the capital of France?",
+    "ans": ["London", "Paris", "Sydney", "New York"],
+    "tans": "Paris"
+  },
+  {
+    "qid": 30,
+    "question": "What landmark in Paris is a famous triumphal arch?",
+    "ans": ["The Louvre", "Arc de Triomphe", "Notre-Dame Cathedral", "Eiffel Tower"],
+    "tans": "Arc de Triomphe"
+  },
+  {
+    "qid": 31,
+    "question": "Which famous Gothic cathedral is mentioned in the Paris section?",
+    "ans": ["St. Paul's", "Notre-Dame Cathedral", "Westminster Abbey", "St. Patrick's"],
+    "tans": "Notre-Dame Cathedral"
+  },
+  {
+    "qid": 32,
+    "question": "Paris is known for its carefully planned design and what else?",
+    "ans": ["Chaotic streets", "Beautiful architecture", "Natural beaches", "Modern skyscrapers"],
+    "tans": "Beautiful architecture"
+  },
+  {
+    "qid": 33,
+    "question": "Where is Sydney located in Australia?",
+    "ans": ["West Coast", "North Coast", "East Coast", "South Coast"],
+    "tans": "East Coast"
+  },
+  {
+    "qid": 34,
+    "question": "What is the largest city in Australia?",
+    "ans": ["Melbourne", "Sydney", "Canberra", "Brisbane"],
+    "tans": "Sydney"
+  },
+  {
+    "qid": 35,
+    "question": "Besides beaches and a harbour, what kind of climate does Sydney have?",
+    "ans": ["Cold climate", "Warm climate", "Arctic climate", "Desert climate"],
+    "tans": "Warm climate"
+  },
+  {
+    "qid": 36,
+    "question": "Sydney combines urban life with which of the following?",
+    "ans": ["Snowy mountains", "Beaches and nature", "Desert sands", "Ancient ruins"],
+    "tans": "Beaches and nature"
+  },
+  {
+    "qid": 37,
+    "question": "Which city is famous for its 'fashion' industry according to the sections on NYC and Paris?",
+    "ans": ["Sydney", "Paris and NYC", "London only", "None of them"],
+    "tans": "Paris and NYC"
+  },
+  {
+    "qid": 38,
+    "question": "What is the primary role of the River Thames in London?",
+    "ans": ["Only for beauty", "Supporting trade and transportation", "For surfing", "No role mentioned"],
+    "tans": "Supporting trade and transportation"
+  },
+  {
+    "qid": 39,
+    "question": "Which city is home to One World Trade Center?",
+    "ans": ["Paris", "London", "New York City", "Sydney"],
+    "tans": "New York City"
+  },
+  {
+    "qid": 40,
+    "question": "Which two cities mentioned have a history going back to Roman times?",
+    "ans": ["New York and Sydney", "London and Paris", "New York and London", "Sydney and Paris"],
+    "tans": "London and Paris"
+  },
+  {
+    "qid": 41,
+    "question": "What kind of skyscrapers is New York City known for?",
+    "ans": ["Short", "Wooden", "Tall", "Underground"],
+    "tans": "Tall"
+  },
+  {
+    "qid": 42,
+    "question": "Which country is New York City located in?",
+    "ans": ["Canada", "United Kingdom", "United States", "Australia"],
+    "tans": "United States"
+  },
+  {
+    "qid": 43,
+    "question": "What is the pace of life described as in New York City?",
+    "ans": ["Slow", "Fast", "Quiet", "Relaxed"],
+    "tans": "Fast"
+  },
+  {
+    "qid": 44,
+    "question": "How many visitors does New York City attract every year?",
+    "ans": ["Hundreds", "Thousands", "Millions", "Billions"],
+    "tans": "Millions"
+  },
+  {
+    "qid": 45,
+    "question": "Which city is a major center for business, culture, and media in the US?",
+    "ans": ["London", "Paris", "New York City", "Sydney"],
+    "tans": "New York City"
+  },
+  {
+    "qid": 46,
+    "question": "What reflects the diversity of New York City besides languages?",
+    "ans": ["The weather", "The mountains", "Food and neighborhoods", "The ocean"],
+    "tans": "Food and neighborhoods"
+  },
+  {
+    "qid": 47,
+    "question": "Is music an industry New York is famous for?",
+    "ans": ["Yes", "No", "Not mentioned", "Only classical"],
+    "tans": "Yes"
+  },
+  {
+    "qid": 48,
+    "question": "Which landmark is specifically called a symbol of engineering achievements in Sydney?",
+    "ans": ["Sydney Harbour Bridge", "Eiffel Tower", "Big Ben", "Statue of Liberty"],
+    "tans": "Sydney Harbour Bridge"
+  },
+  {
+    "qid": 49,
+    "question": "What kind of architectural mix does London have?",
+    "ans": ["Only old", "Only new", "Historic and modern", "None"],
+    "tans": "Historic and modern"
+  },
+  {
+    "qid": 50,
+    "question": "Which city is described as a global hub for business and finance?",
+    "ans": ["Paris", "Sydney", "New York City", "Melbourne"],
+    "tans": "New York City"
+  },
+  {
+    "qid": 51,
+    "question": "Which landmark is located in Paris and is a symbol of creativity?",
+    "ans": ["Eiffel Tower", "Tower Bridge", "Statue of Liberty", "Opera House"],
+    "tans": "Eiffel Tower"
+  },
+  {
+    "qid": 52,
+    "question": "In which city can you find the Houses of Parliament?",
+    "ans": ["New York", "London", "Paris", "Sydney"],
+    "tans": "London"
+  },
+  {
+    "qid": 53,
+    "question": "What does London connect, according to the text?",
+    "ans": ["Two oceans", "History, politics, and modern business", "North and South Pole", "Desert and Forest"],
+    "tans": "History, politics, and modern business"
+  },
+  {
+    "qid": 54,
+    "question": "Which city is associated with the artistic movement Surrealism?",
+    "ans": ["New York", "London", "Paris", "Sydney"],
+    "tans": "Paris"
+  },
+  {
+    "qid": 55,
+    "question": "What is the primary feature Sydney is built around?",
+    "ans": ["A volcano", "A natural harbour", "A desert oasis", "A mountain range"],
+    "tans": "A natural harbour"
+  },
+  {
+    "qid": 56,
+    "question": "What has shaped Sydney's identity and lifestyle?",
+    "ans": ["The natural harbour", "The desert", "The snow", "The rainforest"],
+    "tans": "The natural harbour"
+  },
+  {
+    "qid": 57,
+    "question": "Sydney is an important center for which three things in Australia?",
+    "ans": ["Farming, fishing, and mining", "Business, tourism, and education", "Space, oil, and gas", "Movies, apps, and gaming"],
+    "tans": "Business, tourism, and education"
+  },
+  {
+    "qid": 58,
+    "question": "Which city is located in the Asia-Pacific region?",
+    "ans": ["London", "Paris", "Sydney", "New York"],
+    "tans": "Sydney"
+  },
+  {
+    "qid": 59,
+    "question": "What does diversity influence in London?",
+    "ans": ["The height of buildings", "Food, culture, and daily life", "The speed of the river", "The number of cars"],
+    "tans": "Food, culture, and daily life"
+  },
+  {
+    "qid": 60,
+    "question": "Where is the Brooklyn Bridge located?",
+    "ans": ["London", "Paris", "New York City", "Sydney"],
+    "tans": "New York City"
+  },
+  {
+    "qid": 61,
+    "question": "What gives Paris its unique and historic atmosphere?",
+    "ans": ["Modern skyscrapers", "Beautiful architecture and planned design", "The desert air", "The many beaches"],
+    "tans": "Beautiful architecture and planned design"
+  },
+  {
+    "qid": 62,
+    "question": "Which city is a symbol of culture, history, and creativity?",
+    "ans": ["Sydney", "Paris", "London", "New York"],
+    "tans": "Paris"
+  },
+  {
+    "qid": 63,
+    "question": "Which city is described as having a long history shaped by medieval development?",
+    "ans": ["New York City", "Sydney", "London", "Los Angeles"],
+    "tans": "London"
+  },
+  {
+    "qid": 64,
+    "question": "Is Paris a global center for fashion?",
+    "ans": ["Yes", "No", "Only for shoes", "Not mentioned"],
+    "tans": "Yes"
+  },
+  {
+    "qid": 65,
+    "question": "Which city features the 'Tower Bridge'?",
+    "ans": ["Paris", "Sydney", "London", "New York City"],
+    "tans": "London"
+  },
+  {
+    "qid": 66,
+    "question": "What influence does Paris have on trends around the world?",
+    "ans": ["None", "Minimal", "Significant (Global center for art/fashion)", "Only in Europe"],
+    "tans": "Significant (Global center for art/fashion)"
+  },
+  {
+    "qid": 67,
+    "question": "What is the capital of the French kingdom historically?",
+    "ans": ["London", "Lutetia/Paris", "Rome", "Sydney"],
+    "tans": "Lutetia/Paris"
+  },
+  {
+    "qid": 68,
+    "question": "Which city has a relaxed atmosphere because it combines urban life with nature?",
+    "ans": ["New York City", "London", "Sydney", "Paris"],
+    "tans": "Sydney"
+  },
+  {
+    "qid": 69,
+    "question": "How is the New York City lifestyle described?",
+    "ans": ["Relaxed", "Quiet", "Fast", "Boring"],
+    "tans": "Fast"
+  },
+  {
+    "qid": 70,
+    "question": "What is the Statute of Liberty a landmark of?",
+    "ans": ["London", "Paris", "New York City", "Sydney"],
+    "tans": "New York City"
+  },
+  {
+    "qid": 71,
+    "question": "Which city is mentioned as a 'global center for finance, politics, and culture'?",
+    "ans": ["Sydney", "London", "Paris", "Melbourne"],
+    "tans": "London"
+  },
+  {
+    "qid": 72,
+    "question": "Where is the Louvre Museum located?",
+    "ans": ["London", "Paris", "New York", "Sydney"],
+    "tans": "Paris"
+  },
+  {
+    "qid": 73,
+    "question": "What is a key city in the Asia-Pacific region according to the text?",
+    "ans": ["New York City", "London", "Sydney", "Paris"],
+    "tans": "Sydney"
+  },
+  {
+    "qid": 74,
+    "question": "What river runs through Paris?",
+    "ans": ["Thames", "Hudson", "Seine", "Danube"],
+    "tans": "Seine"
+  },
+  {
+    "qid": 75,
+    "question": "Is London's history only modern?",
+    "ans": ["Yes", "No, it started in Roman times", "No, it started in the 1900s", "It has no history"],
+    "tans": "No, it started in Roman times"
+  },
+  {
+    "qid": 76,
+    "question": "Which city is known for having over 800 languages spoken?",
+    "ans": ["London", "Sydney", "New York City", "Paris"],
+    "tans": "New York City"
+  },
+  {
+    "qid": 77,
+    "question": "What is the Sydney Harbour Bridge a symbol of?",
+    "ans": ["Ancient history", "Modern culture and engineering", "The Roman Empire", "A relaxed lifestyle"],
+    "tans": "Modern culture and engineering"
+  },
+  {
+    "qid": 78,
+    "question": "Which city is the capital of the United Kingdom?",
+    "ans": ["Paris", "Sydney", "London", "New York"],
+    "tans": "London"
+  },
+  {
+    "qid": 79,
+    "question": "Where is the Eiffel Tower found?",
+    "ans": ["England", "France", "USA", "Australia"],
+    "tans": "France"
+  },
+  {
+    "qid": 80,
+    "question": "What kind of climate is Sydney known for?",
+    "ans": ["Freezing", "Rainy", "Warm", "Snowy"],
+    "tans": "Warm"
+  },
+  {
+    "qid": 81,
+    "question": "What were the Dutch and English settlers responsible for developing?",
+    "ans": ["London", "Sydney", "New York City", "Paris"],
+    "tans": "New York City"
+  },
+  {
+    "qid": 82,
+    "question": "Which city is a global hub for business and finance due to Wall Street?",
+    "ans": ["Paris", "London", "New York City", "Sydney"],
+    "tans": "New York City"
+  },
+  {
+    "qid": 83,
+    "question": "Which city attracts millions of tourists and is described as 'beautiful and elegant'?",
+    "ans": ["London", "Paris", "Sydney", "New York"],
+    "tans": "Paris"
+  },
+  {
+    "qid": 84,
+    "question": "The River Thames supports which two activities?",
+    "ans": ["Surfing and skiing", "Trade and transportation", "Fishing and farming", "Mining and drilling"],
+    "tans": "Trade and transportation"
+  },
+  {
+    "qid": 85,
+    "question": "Which city is home to the Broadway theatre industry?",
+    "ans": ["London", "Paris", "New York City", "Sydney"],
+    "tans": "New York City"
+  },
+  {
+    "qid": 86,
+    "question": "What is the largest art museum in the world?",
+    "ans": ["The Met", "British Museum", "The Louvre", "Sydney Museum"],
+    "tans": "The Louvre"
+  },
+  {
+    "qid": 87,
+    "question": "Which city is a major center for education in Australia?",
+    "ans": ["Melbourne", "Sydney", "Canberra", "Perth"],
+    "tans": "Sydney"
+  },
+  {
+    "qid": 88,
+    "question": "Is London a hub for politics?",
+    "ans": ["Yes", "No", "Only for art", "Not mentioned"],
+    "tans": "Yes"
+  },
+  {
+    "qid": 89,
+    "question": "Where is the 'London Eye' located?",
+    "ans": ["Paris", "London", "Sydney", "New York"],
+    "tans": "London"
+  },
+  {
+    "qid": 90,
+    "question": "Which city is built around a natural harbour?",
+    "ans": ["New York", "Paris", "Sydney", "London"],
+    "tans": "Sydney"
+  },
+  {
+    "qid": 91,
+    "question": "What kind of architectural movement is Impressionism?",
+    "ans": ["Gothic", "Intellectual and artistic", "Modern", "None"],
+    "tans": "Intellectual and artistic"
+  },
+  {
+    "qid": 92,
+    "question": "Is New York City on the West Coast or East Coast?",
+    "ans": ["West Coast", "East Coast", "Middle", "South"],
+    "tans": "East Coast"
+  },
+  {
+    "qid": 93,
+    "question": "Which city is described as a 'symbol of opportunity and diversity'?",
+    "ans": ["Sydney", "Paris", "New York City", "London"],
+    "tans": "New York City"
+  },
+  {
+    "qid": 94,
+    "question": "Where are the 'Houses of Parliament' located?",
+    "ans": ["Paris", "London", "Sydney", "New York"],
+    "tans": "London"
+  },
+  {
+    "qid": 95,
+    "question": "Which city is the largest in Australia?",
+    "ans": ["Brisbane", "Perth", "Sydney", "Adelaide"],
+    "tans": "Sydney"
+  },
+  {
+    "qid": 96,
+    "question": "The city of Lutetia eventually became which modern city?",
+    "ans": ["London", "Sydney", "New York", "Paris"],
+    "tans": "Paris"
+  },
+  {
+    "qid": 97,
+    "question": "What is the primary feature of New York City's skyline?",
+    "ans": ["Small huts", "Mountains", "Tall skyscrapers", "Forests"],
+    "tans": "Tall skyscrapers"
+  },
+  {
+    "qid": 98,
+    "question": "Is the Sydney Opera House an iconic landmark?",
+    "ans": ["Yes", "No", "It is in London", "It is in Paris"],
+    "tans": "Yes"
+  },
+  {
+    "qid": 99,
+    "question": "Which city has a 'fast-paced' lifestyle compared to Sydney's 'relaxed' one?",
+    "ans": ["London", "Paris", "New York City", "All of them"],
+    "tans": "New York City"
+  },
+  {
+    "qid": 100,
+    "question": "Which city is a global center for art and fashion, influencing trends world-wide?",
+    "ans": ["Sydney", "Paris", "London", "New York"],
+    "tans": "Paris"
+  },
+  {
+    "qid": 101,
+    "question": "Which people were the original inhabitants of the New York City area?",
+    "ans": ["The Lenape", "The Dutch", "The English", "The Romans"],
+    "tans": "The Lenape"
+  },
+  {
+    "qid": 102,
+    "question": "What is the capital of France?",
+    "ans": ["London", "Paris", "New York", "Sydney"],
+    "tans": "Paris"
+  },
+  {
+    "qid": 103,
+    "question": "Which city is known for its Broadway theatre and fashion industries?",
+    "ans": ["Sydney", "London", "New York City", "Paris"],
+    "tans": "New York City"
+  },
+  {
+    "qid": 104,
+    "question": "Along which river is Paris located?",
+    "ans": ["River Thames", "Hudson River", "Seine River", "Danube"],
+    "tans": "Seine River"
+  },
+  {
+    "qid": 105,
+    "question": "Which city is described as a key city in the Asia-Pacific region?",
+    "ans": ["Paris", "Sydney", "London", "New York City"],
+    "tans": "Sydney"
+  },
+  {
+    "qid": 106,
+    "question": "What is the name of the observation wheel landmark in London?",
+    "ans": ["The Eiffel Tower", "The London Eye", "Big Ben", "Tower Bridge"],
+    "tans": "The London Eye"
+  },
+  {
+    "qid": 107,
+    "question": "Which city was originally a Roman settlement called Lutetia?",
+    "ans": ["London", "Paris", "Sydney", "New York City"],
+    "tans": "Paris"
+  },
+  {
+    "qid": 108,
+    "question": "Where is the New York Stock Exchange located?",
+    "ans": ["Broadway", "5th Avenue", "Wall Street", "Central Park"],
+    "tans": "Wall Street"
+  },
+  {
+    "qid": 109,
+    "question": "Which landmark is an iconic representation of Sydney's modern culture?",
+    "ans": ["The Louvre", "Sydney Opera House", "Buckingham Palace", "Statue of Liberty"],
+    "tans": "Sydney Opera House"
+  },
+  {
+    "qid": 110,
+    "question": "Which city has a history that began in Roman times and is the capital of the UK?",
+    "ans": ["London", "Paris", "Sydney", "New York City"],
+    "tans": "London"
+  },
+  {
+    "qid": 111,
+    "question": "What is the largest art museum in the world?",
+    "ans": ["The British Museum", "The Met", "The Louvre Museum", "Tate Modern"],
+    "tans": "The Louvre Museum"
+  },
+  {
+    "qid": 112,
+    "question": "On which coast of Australia is Sydney located?",
+    "ans": ["West Coast", "East Coast", "North Coast", "South Coast"],
+    "tans": "East Coast"
+  },
+  {
+    "qid": 113,
+    "question": "What is New York City often seen as a symbol of?",
+    "ans": ["Ancient history", "Isolation", "Opportunity and diversity", "Silence"],
+    "tans": "Opportunity and diversity"
+  },
+  {
+    "qid": 114,
+    "question": "Which river has played a key role in London’s growth and trade?",
+    "ans": ["River Nile", "River Thames", "Hudson River", "Seine River"],
+    "tans": "River Thames"
+  },
+  {
+    "qid": 115,
+    "question": "Which city is famous for its relaxed lifestyle compared to other global cities?",
+    "ans": ["New York City", "London", "Sydney", "Paris"],
+    "tans": "Sydney"
+  },
+  {
+    "qid": 116,
+    "question": "Which landmark in Paris is a famous triumphal arch?",
+    "ans": ["Arc de Triomphe", "Eiffel Tower", "Notre-Dame Cathedral", "The Louvre"],
+    "tans": "Arc de Triomphe"
+  },
+  {
+    "qid": 117,
+    "question": "How many languages are spoken in New York City?",
+    "ans": ["Over 100", "Over 300", "Over 500", "Over 800"],
+    "tans": "Over 800"
+  },
+  {
+    "qid": 118,
+    "question": "Which city is the official residence of the King or Queen of the UK?",
+    "ans": ["Paris", "London", "Sydney", "New York City"],
+    "tans": "London"
+  },
+  {
+    "qid": 119,
+    "question": "What kind of climate does Sydney have?",
+    "ans": ["Arctic", "Warm", "Cold", "Desert"],
+    "tans": "Warm"
+  },
+  {
+    "qid": 120,
+    "question": "Which city is known for the artistic movements Impressionism and Surrealism?",
+    "ans": ["London", "New York City", "Paris", "Sydney"],
+    "tans": "Paris"
+  },
+  {
+    "qid": 121,
+    "question": "Which tall building is located in New York City?",
+    "ans": ["One World Trade Center", "The Eiffel Tower", "The Shard", "Sydney Tower"],
+    "tans": "One World Trade Center"
+  },
+  {
+    "qid": 122,
+    "question": "Which city is described as beautiful and elegant with carefully planned design?",
+    "ans": ["Sydney", "London", "Paris", "New York City"],
+    "tans": "Paris"
+  },
+  {
+    "qid": 123,
+    "question": "What natural feature has shaped Sydney’s identity and lifestyle?",
+    "ans": ["Mountains", "A natural harbour", "A desert", "A rainforest"],
+    "tans": "A natural harbour"
+  },
+  {
+    "qid": 124,
+    "question": "Which city is a global center for finance, politics, and culture in Europe?",
+    "ans": ["Paris", "London", "Sydney", "Berlin"],
+    "tans": "London"
+  },
+  {
+    "qid": 125,
+    "question": "Where is the Brooklyn Bridge located?",
+    "ans": ["London", "Paris", "Sydney", "New York City"],
+    "tans": "New York City"
+  },
+  {
+    "qid": 126,
+    "question": "Which city combines urban life with beaches and nature?",
+    "ans": ["New York City", "London", "Sydney", "Paris"],
+    "tans": "Sydney"
+  },
+  {
+    "qid": 127,
+    "question": "What is the Gothic cathedral mentioned as a famous landmark in Paris?",
+    "ans": ["St. Paul's", "Westminster Abbey", "Notre-Dame Cathedral", "St. Patrick's"],
+    "tans": "Notre-Dame Cathedral"
+  },
+  {
+    "qid": 128,
+    "question": "Which European city has history shaped by Roman, medieval, and modern development?",
+    "ans": ["London", "New York City", "Sydney", "None of the above"],
+    "tans": "London"
+  },
+  {
+    "qid": 129,
+    "question": "Which park is a well-known landmark in the middle of New York City?",
+    "ans": ["Hyde Park", "Central Park", "Luxembourg Gardens", "Royal Botanic Garden"],
+    "tans": "Central Park"
+  },
+  {
+    "qid": 130,
+    "question": "In which hemisphere is Sydney located?",
+    "ans": ["Northern", "Southern", "Western", "Eastern"],
+    "tans": "Southern"
+  },
+  {
+    "qid": 131,
+    "question": "Which city is described as having a 'fast lifestyle'?",
+    "ans": ["Sydney", "New York City", "London", "Paris"],
+    "tans": "New York City"
+  },
+  {
+    "qid": 132,
+    "question": "Which city is the capital of France and a center for global fashion?",
+    "ans": ["London", "Sydney", "New York City", "Paris"],
+    "tans": "Paris"
+  },
+  {
+    "qid": 133,
+    "question": "Which bridge is a famous landmark in London?",
+    "ans": ["Brooklyn Bridge", "Tower Bridge", "Golden Gate Bridge", "Sydney Harbour Bridge"],
+    "tans": "Tower Bridge"
+  },
+  {
+    "qid": 134,
+    "question": "Which city is described as one of the oldest in Europe?",
+    "ans": ["New York City", "Sydney", "London", "Los Angeles"],
+    "tans": "London"
+  },
+  {
+    "qid": 135,
+    "question": "What is the famous clock tower landmark in London?",
+    "ans": ["The Eiffel Tower", "Big Ben", "Statue of Liberty", "The London Eye"],
+    "tans": "Big Ben"
+  },
+  {
+    "qid": 136,
+    "question": "Which city is the largest in Australia?",
+    "ans": ["Melbourne", "Brisbane", "Sydney", "Canberra"],
+    "tans": "Sydney"
+  },
+  {
+    "qid": 137,
+    "question": "What has the River Thames supported for London over centuries?",
+    "ans": ["Agriculture", "Trade and transportation", "Mining", "Space exploration"],
+    "tans": "Trade and transportation"
+  },
+  {
+    "qid": 138,
+    "question": "Which group of people developed New York City after the Lenape?",
+    "ans": ["The Romans", "Dutch and English settlers", "The Spanish", "The French"],
+    "tans": "Dutch and English settlers"
+  },
+  {
+    "qid": 139,
+    "question": "Which landmark is an engineering achievement in Australia?",
+    "ans": ["Eiffel Tower", "Sydney Harbour Bridge", "Big Ben", "Statue of Liberty"],
+    "tans": "Sydney Harbour Bridge"
+  },
+  {
+    "qid": 140,
+    "question": "Which city is an important center for media and culture in the USA?",
+    "ans": ["London", "Paris", "New York City", "Sydney"],
+    "tans": "New York City"
+  },
+  {
+    "qid": 141,
+    "question": "Where is the Statue of Liberty located?",
+    "ans": ["London", "Paris", "New York City", "Sydney"],
+    "tans": "New York City"
+  },
+  {
+    "qid": 142,
+    "question": "Which city is known for its world-class museums and universities in the UK?",
+    "ans": ["New York City", "Paris", "London", "Sydney"],
+    "tans": "London"
+  },
+  {
+    "qid": 143,
+    "question": "What is the primary role of the Seine River for Paris?",
+    "ans": ["Natural border", "Industrial power", "Location of the city", "Drinking water only"],
+    "tans": "Location of the city"
+  },
+  {
+    "qid": 144,
+    "question": "Which city is described as a global hub for business and finance?",
+    "ans": ["Sydney", "Paris", "New York City", "London"],
+    "tans": "New York City"
+  },
+  {
+    "qid": 145,
+    "question": "Which city attracts millions of visitors and is a symbol of culture?",
+    "ans": ["Paris", "Sydney", "London", "New York City"],
+    "tans": "Paris"
+  },
+  {
+    "qid": 146,
+    "question": "What reflects the diversity in Sydney?",
+    "ans": ["The mountains", "The snow", "Food, festivals, and communities", "The desert"],
+    "tans": "Food, festivals, and communities"
+  },
+  {
+    "qid": 147,
+    "question": "Which city has landmarks that reflect both its history and modern identity?",
+    "ans": ["London", "New York City", "Sydney", "Paris"],
+    "tans": "London"
+  },
+  {
+    "qid": 148,
+    "question": "What is the name of the French kingdom's capital mentioned?",
+    "ans": ["Lutetia", "Paris", "London", "Sydney"],
+    "tans": "Paris"
+  },
+  {
+    "qid": 149,
+    "question": "Which city is on the East Coast of the United States?",
+    "ans": ["Los Angeles", "New York City", "Sydney", "Paris"],
+    "tans": "New York City"
+  },
+  {
+    "qid": 150,
+    "question": "What kind of atmosphere does Sydney have compared to other large cities?",
+    "ans": ["Hectic", "Formal", "Relaxed", "Gloomy"],
+    "tans": "Relaxed"
+  },
+  {
+    "qid": 151,
+    "question": "Which city is famous for its tall skyscrapers and fast pace?",
+    "ans": ["New York City", "London", "Paris", "Sydney"],
+    "tans": "New York City"
+  },
+  {
+    "qid": 152,
+    "question": "In which city is the Louvre Museum located?",
+    "ans": ["London", "Paris", "Sydney", "New York"],
+    "tans": "Paris"
+  },
+  {
+    "qid": 153,
+    "question": "What city is the capital of the United Kingdom?",
+    "ans": ["Paris", "New York", "London", "Sydney"],
+    "tans": "London"
+  },
+  {
+    "qid": 154,
+    "question": "Which city is known for its natural beauty and modern development?",
+    "ans": ["New York City", "London", "Paris", "Sydney"],
+    "tans": "Sydney"
+  },
+  {
+    "qid": 155,
+    "question": "What does the New York Stock Exchange make the city?",
+    "ans": ["A farm hub", "A global hub for finance", "A mountain retreat", "A historical ruin"],
+    "tans": "A global hub for finance"
+  },
+  {
+    "qid": 156,
+    "question": "Which city was originally home to the Lenape people?",
+    "ans": ["London", "New York City", "Paris", "Sydney"],
+    "tans": "New York City"
+  },
+  {
+    "qid": 157,
+    "question": "Which city has a landmark called the Houses of Parliament?",
+    "ans": ["London", "New York City", "Sydney", "Paris"],
+    "tans": "London"
+  },
+  {
+    "qid": 158,
+    "question": "Which city is described as beautiful and elegant?",
+    "ans": ["New York City", "London", "Paris", "Sydney"],
+    "tans": "Paris"
+  },
+  {
+    "qid": 159,
+    "question": "On which coast of the USA is New York City located?",
+    "ans": ["West Coast", "East Coast", "Gulf Coast", "North Coast"],
+    "tans": "East Coast"
+  },
+  {
+    "qid": 160,
+    "question": "Which city is an important economic center in Australia?",
+    "ans": ["Perth", "Brisbane", "Sydney", "Melbourne"],
+    "tans": "Sydney"
+  },
+  {
+    "qid": 161,
+    "question": "Which city's history began in Roman times?",
+    "ans": ["London", "New York City", "Sydney", "All of these"],
+    "tans": "London"
+  },
+  {
+    "qid": 162,
+    "question": "What river is associated with London's growth?",
+    "ans": ["River Nile", "River Thames", "Hudson River", "Seine River"],
+    "tans": "River Thames"
+  },
+  {
+    "qid": 163,
+    "question": "Which city is famous for its art and fashion industries globally?",
+    "ans": ["London", "Paris", "Sydney", "New York"],
+    "tans": "Paris"
+  },
+  {
+    "qid": 164,
+    "question": "Which landmark is found in Sydney?",
+    "ans": ["Big Ben", "Eiffel Tower", "Sydney Opera House", "Statue of Liberty"],
+    "tans": "Sydney Opera House"
+  },
+  {
+    "qid": 165,
+    "question": "What is New York City a symbol of?",
+    "ans": ["Isolation", "Opportunity and diversity", "Ancient history", "Quiet life"],
+    "tans": "Opportunity and diversity"
+  },
+  {
+    "qid": 166,
+    "question": "Where can you find the Arc de Triomphe?",
+    "ans": ["London", "New York", "Paris", "Sydney"],
+    "tans": "Paris"
+  },
+  {
+    "qid": 167,
+    "question": "Which city has people speaking over 800 languages?",
+    "ans": ["London", "New York City", "Sydney", "Paris"],
+    "tans": "New York City"
+  },
+  {
+    "qid": 168,
+    "question": "Which city is a global center for finance, politics, and culture?",
+    "ans": ["London", "Paris", "Sydney", "New York"],
+    "tans": "London"
+  },
+  {
+    "qid": 169,
+    "question": "What is the capital of France?",
+    "ans": ["Paris", "London", "Sydney", "New York"],
+    "tans": "Paris"
+  },
+  {
+    "qid": 170,
+    "question": "Which city is the largest in Australia?",
+    "ans": ["Melbourne", "Sydney", "Canberra", "Brisbane"],
+    "tans": "Sydney"
+  },
+  {
+    "qid": 171,
+    "question": "What river is Paris located along?",
+    "ans": ["River Thames", "Seine River", "Hudson River", "Danube"],
+    "tans": "Seine River"
+  },
+  {
+    "qid": 172,
+    "question": "Which landmark is in London?",
+    "ans": ["Eiffel Tower", "Big Ben", "Statue of Liberty", "Sydney Opera House"],
+    "tans": "Big Ben"
+  },
+  {
+    "qid": 173,
+    "question": "Which city has a relaxed lifestyle?",
+    "ans": ["New York City", "London", "Sydney", "Paris"],
+    "tans": "Sydney"
+  },
+  {
+    "qid": 174,
+    "question": "Which museum is the largest art museum in the world?",
+    "ans": ["British Museum", "The Louvre", "The Met", "Tate Modern"],
+    "tans": "The Louvre"
+  },
+  {
+    "qid": 175,
+    "question": "Where is Wall Street located?",
+    "ans": ["London", "Paris", "New York City", "Sydney"],
+    "tans": "New York City"
+  },
+  {
+    "qid": 176,
+    "question": "Which city is a hub for business, tourism, and education in Australia?",
+    "ans": ["Sydney", "Melbourne", "Perth", "Darwin"],
+    "tans": "Sydney"
+  },
+  {
+    "qid": 177,
+    "question": "Which city has a history going back to ancient Roman times?",
+    "ans": ["Paris", "New York", "Sydney", "Melbourne"],
+    "tans": "Paris"
+  },
+  {
+    "qid": 178,
+    "question": "Which city is the capital of the United Kingdom?",
+    "ans": ["Paris", "London", "New York", "Sydney"],
+    "tans": "London"
+  },
+  {
+    "qid": 179,
+    "question": "Where is the Eiffel Tower located?",
+    "ans": ["London", "New York", "Paris", "Sydney"],
+    "tans": "Paris"
+  },
+  {
+    "qid": 180,
+    "question": "Which city is described as a symbol of culture and creativity?",
+    "ans": ["New York", "London", "Paris", "Sydney"],
+    "tans": "Paris"
+  },
+  {
+    "qid": 181,
+    "question": "Which city is home to Buckingham Palace?",
+    "ans": ["Paris", "London", "New York City", "Sydney"],
+    "tans": "London"
+  },
+  {
+    "qid": 182,
+    "question": "What is the atmosphere of Sydney compared to other global cities?",
+    "ans": ["Very stressful", "Relaxed", "Hectic", "Quiet"],
+    "tans": "Relaxed"
+  },
+  {
+    "qid": 183,
+    "question": "Which city is known for its carefully planned design?",
+    "ans": ["New York City", "Paris", "London", "Sydney"],
+    "tans": "Paris"
+  },
+  {
+    "qid": 184,
+    "question": "Which city is home to the Broadway theatre industry?",
+    "ans": ["London", "New York City", "Paris", "Sydney"],
+    "tans": "New York City"
+  },
+  {
+    "qid": 185,
+    "question": "Which city was a Roman settlement called Lutetia?",
+    "ans": ["London", "Paris", "Sydney", "New York City"],
+    "tans": "Paris"
+  },
+  {
+    "qid": 186,
+    "question": "Where is Central Park located?",
+    "ans": ["London", "Paris", "New York City", "Sydney"],
+    "tans": "New York City"
+  },
+  {
+    "qid": 187,
+    "question": "Which city has the London Eye as a landmark?",
+    "ans": ["Paris", "London", "Sydney", "New York City"],
+    "tans": "London"
+  },
+  {
+    "qid": 188,
+    "question": "What makes New York City a global hub for business?",
+    "ans": ["The beach", "The desert", "Wall Street", "The forest"],
+    "tans": "Wall Street"
+  },
+  {
+    "qid": 189,
+    "question": "Which city is the largest in Australia?",
+    "ans": ["Sydney", "Melbourne", "Brisbane", "Canberra"],
+    "tans": "Sydney"
+  },
+  {
+    "qid": 190,
+    "question": "Which city is known for its beautiful architecture?",
+    "ans": ["New York City", "Paris", "London", "Sydney"],
+    "tans": "Paris"
+  },
+  {
+    "qid": 191,
+    "question": "Which city is a key city in the Asia-Pacific region?",
+    "ans": ["Paris", "London", "Sydney", "New York City"],
+    "tans": "Sydney"
+  },
+  {
+    "qid": 192,
+    "question": "Which city is one of the oldest in Europe?",
+    "ans": ["New York", "London", "Sydney", "Los Angeles"],
+    "tans": "London"
+  },
+  {
+    "qid": 193,
+    "question": "Where is One World Trade Center located?",
+    "ans": ["London", "Paris", "New York City", "Sydney"],
+    "tans": "New York City"
+  },
+  {
+    "qid": 194,
+    "question": "Which city is home to Notre-Dame Cathedral?",
+    "ans": ["London", "Paris", "New York City", "Sydney"],
+    "tans": "Paris"
+  },
+  {
+    "qid": 195,
+    "question": "Which city is described as having a long history starting in Roman times?",
+    "ans": ["London", "Paris", "Both London and Paris", "New York City"],
+    "tans": "Both London and Paris"
+  },
+  {
+    "qid": 196,
+    "question": "Which city is known for its fashion and food?",
+    "ans": ["London", "Paris", "Sydney", "New York City"],
+    "tans": "Paris"
+  },
+  {
+    "qid": 197,
+    "question": "What is the climate of Sydney?",
+    "ans": ["Warm", "Cold", "Arctic", "Desert"],
+    "tans": "Warm"
+  },
+  {
+    "qid": 198,
+    "question": "Which city is known for its natural harbour?",
+    "ans": ["New York City", "London", "Sydney", "Paris"],
+    "tans": "Sydney"
+  },
+  {
+    "qid": 199,
+    "question": "Which city is a symbol of culture, history, and creativity?",
+    "ans": ["London", "Sydney", "Paris", "New York City"],
+    "tans": "Paris"
+  },
+  {
+    "qid": 200,
+    "question": "Which city is described as one of the most recognizable urban areas in the world?",
+    "ans": ["London", "Paris", "New York City", "Sydney"],
+    "tans": "New York City"
+  }
+]
